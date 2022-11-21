@@ -1,0 +1,19 @@
+Document on How to Crawl a Website and save the images and text from the website.
+
+
+To Crawl a Website and Save Images and text
+
+Web Scraping is my approach for website crawling. Web Scraping is often call web crawling which goes over a collection of web pages and extracts data from it.
+web Scraping is very powerful tool for working with data on the web. We can mine data using this technique and can get a large corpus of text or quantitative data using web scraping.
+
+Steps to follow:
+1. Create a Scraper
+2. Extract data from Page
+3. Crawl Multiple pages
+
+We can also use RPA for web crawling if it is a repetitive task.
+
+To save images and text from website, we can use BeautifulSoup to read the content of the web page keeping aid of html_parser.
+Now we can get the source of images and extract it.
+Later we can save images using Python to our Device.
+To make sure the images are downloaded correctly, we can use matplotlib.pyplot and matplotlib.image packages.
