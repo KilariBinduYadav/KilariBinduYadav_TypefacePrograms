@@ -11,6 +11,7 @@ Steps to follow:
 2. Extract data from Page
 3. Crawl Multiple pages
 
+
 We can also use RPA for web crawling if it is a repetitive task.
 
 To save images and text from website, we can use BeautifulSoup to read the content of the web page with aid of html_parser.
